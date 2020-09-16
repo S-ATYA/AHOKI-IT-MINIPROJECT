@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\ASHOKIT-MINIPROJECT\.metadata\.plugins\org.eclipse.jdt.core
+1707052480.index
